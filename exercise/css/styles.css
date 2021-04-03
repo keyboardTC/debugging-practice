@@ -95,3 +95,13 @@ main {
 .cards--orange .back {
   background-color: #fa983a;
 }
+.restart{
+  margin-bottom: 2rem;
+  display: none;
+}
+.restart>button {
+  cursor: pointer;
+  padding: 1rem;
+  background: red;
+  color: rgb(255, 255, 255);
+}
